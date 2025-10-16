@@ -8,7 +8,7 @@
 **Semesters:**
 Fall 2025
 
-I served as a Teaching Assistant (TA) for the Machine Vision course offered by **Dr. Shariatmadar** at **Amirkabir University of Technology (AUT)** during the Fall 2025 semesters.
+I served as a **Teaching Assistant (TA)** for the Machine Vision course offered by **Dr. Shariatmadar** at **Amirkabir University of Technology (AUT)** during the Fall 2025 semesters.
 My primary responsibilities included:
 
 Designing and developing homework questions and assignments to assess students’ understanding of key image processing concepts.
