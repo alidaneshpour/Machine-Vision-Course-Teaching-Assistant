@@ -18,3 +18,7 @@ Grading and evaluating students’ submissions to ensure fairness and consistenc
 Preparing English-language materials for all homework assignments to support clarity and accessibility for all students.
 
 This repository contains selected materials and examples related to the course’s homework design and grading process.
+
+
+- Designed and prepared **homework questions and assignments** covering key topics in digital image processing.  
+
