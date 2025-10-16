@@ -20,5 +20,5 @@ Preparing English-language materials for all homework assignments to support cla
 This repository contains selected materials and examples related to the course’s homework design and grading process.
 
 
-- Designed and prepared **homework questions and assignments** covering key topics in digital image processing.  
+- Designing and developing **homework questions and assignments** to assess students’ understanding of key image processing concepts. 
 
