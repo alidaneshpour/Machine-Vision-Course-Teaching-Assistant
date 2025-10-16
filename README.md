@@ -21,4 +21,5 @@ This repository contains selected materials and examples related to the course�
 
 
 - Designing and developing **homework questions and assignments** to assess students’ understanding of key image processing concepts. 
+- **Grading and evaluating** students’ submissions to ensure fairness and consistency.
 
