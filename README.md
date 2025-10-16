@@ -5,7 +5,8 @@
 **Instructor:**
 Dr. Shariatmadar
 
-Semesters: Fall 2025
+**Semesters:**
+Fall 2025
 
 I served as a Teaching Assistant (TA) for the Digital Image Processing (DIP) course offered by Prof. Rahmati at Amirkabir University of Technology (AUT) during the Spring 2023 and Spring 2024 semesters.
 My primary responsibilities included:
