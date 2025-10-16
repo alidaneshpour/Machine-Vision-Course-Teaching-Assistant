@@ -3,7 +3,7 @@
 **Amirkabir University of Technology (AUT)**
 
 **Instructor:**
-Dr. Shariatmadar
+**[Dr. Shariatmadar](https://scholar.google.com/citations?user=SrN4regAAAAJ&hl=en)**
 
 **Semesters:**
 Fall 2025
