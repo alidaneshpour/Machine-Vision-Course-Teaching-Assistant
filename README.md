@@ -1,8 +1,9 @@
-## Machine-Vision-Course-Teaching-Assistant
+# Machine-Vision-Course-Teaching-Assistant
 
-# Amirkabir University of Technology (AUT)
+## Amirkabir University of Technology (AUT)
 
-Instructor: Dr. Shariatmadar
+## Instructor:
+Dr. Shariatmadar
 
 Semesters: Fall 2025
 
