@@ -23,3 +23,5 @@ This repository contains selected materials and examples related to the course�
 - Designing and developing **homework questions and assignments** to assess students’ understanding of key image processing concepts. 
 - **Grading and evaluating** students’ submissions to ensure fairness and consistency.
 
+This repository includes selected materials, homework designs, and related resources developed during my role as a TA for the DIP course.
+
