@@ -1,6 +1,6 @@
 # Machine-Vision-Course-Teaching-Assistant
 
-**[Amirkabir University of Technology(AUT)](https://aut.ac.ir/en)**
+**[Amirkabir University of Technology (AUT)](https://aut.ac.ir/en)**
 
 **Instructor:**
 **[Dr. Shariatmadar](https://scholar.google.com/citations?user=SrN4regAAAAJ&hl=en)**
